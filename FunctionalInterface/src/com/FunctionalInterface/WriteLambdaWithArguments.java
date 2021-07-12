@@ -1,4 +1,9 @@
 package com.FunctionalInterface;
+/**
+ * 
+ * @author baghel mit
+ *
+ */
 
 public class WriteLambdaWithArguments {
 	

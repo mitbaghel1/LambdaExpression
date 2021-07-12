@@ -1,5 +1,10 @@
 package com.FunctionalInterface;
 
+/**
+ * 
+ * @author baghel mit
+ *
+ */
 public class WriteTypesOfLambda {
 
 	public static void main(String[] args) {
@@ -64,4 +69,6 @@ interface C
 interface D
 {
 	public String f3();
+
+//	public void D1Method();
 }
